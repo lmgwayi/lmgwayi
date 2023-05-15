@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lmgwayi
+- 👀 I’m interested in programing
+- 🌱 I’m currently learning js
